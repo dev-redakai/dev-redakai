@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Spark, Python, Data at https://topmate.io/manikant_goutam**
 
-- 📫 How to reach me **manikantgautam3@gmail.com**
+- 📫 Reach-out to me at **manikantgautam3@gmail.com**
 
 - ⚡ Fun fact **I help freshers to get them ready for interviews.**
 
