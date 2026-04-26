@@ -1,40 +1,119 @@
-<h1 align="center">Hi 👋, I'm Manikant Goutam</h1>
-<h3 align="center">A passionate Big Data Engineer/Developer from Bangalore, Karnataka, India.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-redakai&label=Profile%20views&color=0e75b6&style=flat" alt="dev-redakai" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=180&section=header&text=Manikant%20Goutam&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-redakai" alt="dev-redakai" /></a> </p>
+# Hi there, I'm Manikant Goutam 👋
 
-<p align="left"> <a href="https://twitter.com/manikant_goutam" target="blank"><img src="https://img.shields.io/twitter/follow/manikant_goutam?logo=twitter&style=for-the-badge" alt="manikant_goutam" /></a> </p>
+### Big Data Engineer • Data Platform Builder • Open-Source Collaborator
 
-- 🔭 I’m currently working on **Audience Measurement in AdTech Industry**
+[![Profile Views](https://komarev.com/ghpvc/?username=dev-redakai&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/dev-redakai)
+[![Twitter Follow](https://img.shields.io/twitter/follow/manikant_goutam?logo=x&style=for-the-badge)](https://twitter.com/manikant_goutam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--redakai-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dev-redakai)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikantgautam3@gmail.com)
 
-- 🌱 I’m currently learning **Data Science**
+</div>
 
-- 👯 I’m looking to collaborate on **Open-Source Big Data Tools**
+---
 
-- 🤝 I’m looking for help with **Exploring new Tech with AI**
+## 🚀 About Me
 
-- 💬 Ask me about **Spark, Python, Data at https://topmate.io/manikant_goutam**
+I’m a passionate **Big Data Engineer/Developer** based in **Bangalore, Karnataka, India**.
+I build data platforms that are scalable, observable, and production-ready.
 
-- 📫 Reach-out to me at **manikantgautam3@gmail.com**
+- 🔭 Currently working on **Audience Measurement in the AdTech industry**
+- 🌱 Currently learning **Data Science** and practical **ML workflows**
+- 👯 Open to collaborate on **Open-Source Big Data tools**
+- 🤝 Looking for support with **exploring new tech with AI**
+- 💬 Ask me about **Spark, Python, Kafka, data pipelines, and platform design**
+- 📫 Reach me at **manikantgautam3@gmail.com**
+- ⚡ Fun fact: **I mentor freshers for interviews**
 
-- ⚡ Fun fact **I help freshers to get them ready for interviews.**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🎯 Current Focus
+
+- Designing reliable **batch + streaming** data pipelines
+- Improving data quality checks and observability practices
+- Exploring **LLM + Data Engineering** integration patterns
+- Sharing practical guidance for early-career engineers
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://twitter.com/manikant_goutam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manikant_goutam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dev-redakai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-redakai" height="30" width="40" /></a>
-<a href="https://instagram.com/manikantg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manikantg" height="30" width="40" /></a>
-<a href="https://medium.com/@manikantg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@manikantg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/manikant_m170361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manikant_m170361" height="30" width="40" /></a>
+  <a href="https://twitter.com/manikant_goutam"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dev-redakai"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/manikantg"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@manikantg"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/manikant_m170361"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://topmate.io/manikant_goutam"><img src="https://img.shields.io/badge/Topmate-Ask%20Me%20Anything-8A2BE2?style=for-the-badge" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-redakai&show_icons=true&locale=en&layout=compact" alt="dev-redakai" /></p>
+## 🧰 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-redakai&show_icons=true&locale=en" alt="dev-redakai" /></p>
+### Data Engineering & Analytics
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-redakai&" alt="dev-redakai" /></p>
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### Cloud, DevOps & Databases
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+## 🏆 Highlights
+
+- Built and optimized large-scale data workflows for **AdTech audience measurement**
+- Hands-on with distributed systems for ingestion, transformation, and serving
+- Mentor to freshers for interview prep and practical career guidance
+
+---
+
+## 📚 Learning & Sharing
+
+- Writing and sharing engineering insights on [Medium](https://medium.com/@manikantg)
+- Helping learners via [Topmate](https://topmate.io/manikant_goutam)
+- Regularly exploring tools across data, AI, and platform engineering
+
+---
+
+## 📈 GitHub Insights
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dev-redakai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-redakai&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-redakai&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+---
+
+## ✨ Let's Build Something Impactful
+
+If you're working on **data platforms, AI-enabled workflows, or open-source tooling**, I’d love to connect and collaborate.
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:4f46e5&height=120&section=footer" alt="footer" />
+</div>
