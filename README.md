@@ -10,6 +10,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/manikant_goutam?logo=x&style=for-the-badge)](https://twitter.com/manikant_goutam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--redakai-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dev-redakai)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikantgautam3@gmail.com)
+[![Website]](https://deploy-preview-2--manikant-goutam.netlify.app/)
 
 </div>
 
